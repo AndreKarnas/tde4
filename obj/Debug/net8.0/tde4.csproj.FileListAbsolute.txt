@@ -1,0 +1,14 @@
+C:\Users\andre\lp\tde4\bin\Debug\net8.0\tde4.exe
+C:\Users\andre\lp\tde4\bin\Debug\net8.0\tde4.deps.json
+C:\Users\andre\lp\tde4\bin\Debug\net8.0\tde4.runtimeconfig.json
+C:\Users\andre\lp\tde4\bin\Debug\net8.0\tde4.dll
+C:\Users\andre\lp\tde4\bin\Debug\net8.0\tde4.pdb
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.AssemblyInfoInputs.cache
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.AssemblyInfo.cs
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.csproj.CoreCompileInputs.cache
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.dll
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\refint\tde4.dll
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.pdb
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\tde4.genruntimeconfig.cache
+C:\Users\andre\lp\tde4\obj\Debug\net8.0\ref\tde4.dll
